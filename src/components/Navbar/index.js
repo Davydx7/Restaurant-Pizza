@@ -1,14 +1,14 @@
-import { Nav, NavIcon, NavLink, Pizza } from "./NavbarElements"
+import { NavContainer, NavIcon, NavLink, Pizza } from "./NavbarElements"
 
-const Navbar = () => {
+const Navbar = ({toggle}) => {
     return (
-        <Nav>
+        <NavContainer>
             <NavLink to="/"> Pizza</NavLink>
-            <NavIcon>
+            <NavIcon onClick={toggle}>
                 <p>Menu</p>
                 <Pizza />
             </NavIcon>
-        </Nav>
+        </NavContainer>
     )
 }
 
