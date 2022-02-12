@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/Restaurant-Pizza/static/js/main.844b0f95.chunk.js",
-    "main.js.map": "/Restaurant-Pizza/static/js/main.844b0f95.chunk.js.map",
+    "main.js": "/Restaurant-Pizza/static/js/main.afc55a75.chunk.js",
+    "main.js.map": "/Restaurant-Pizza/static/js/main.afc55a75.chunk.js.map",
     "runtime-main.js": "/Restaurant-Pizza/static/js/runtime-main.7f56bb14.js",
     "runtime-main.js.map": "/Restaurant-Pizza/static/js/runtime-main.7f56bb14.js.map",
     "static/js/2.b7d70707.chunk.js": "/Restaurant-Pizza/static/js/2.b7d70707.chunk.js",
@@ -20,6 +20,6 @@
   "entrypoints": [
     "static/js/runtime-main.7f56bb14.js",
     "static/js/2.b7d70707.chunk.js",
-    "static/js/main.844b0f95.chunk.js"
+    "static/js/main.afc55a75.chunk.js"
   ]
 }
